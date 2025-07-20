@@ -54,6 +54,10 @@
 
 ## 📂 Repositorios Destacados
 
+Detector de Cáncer de Piel con IA
+
+
+
 ## 🚥 Activity
 
 <p align="center">
