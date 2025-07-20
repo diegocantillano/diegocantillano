@@ -55,7 +55,7 @@
 ## 📂 Repositorios Destacados
 
 - Detector de Cáncer de Piel con IA. Una aplicación web desarrollada con **Streamlit** y **TensorFlow** que utiliza deep learning para detectar melanomas malignos y benignos en imágenes de lesiones cutáneas.
-👉 https://github.com/diegocantillano/detector-cancer-piel
+- 👉 https://github.com/diegocantillano/detector-cancer-piel
 
 
 
